@@ -1,11 +1,11 @@
 # Hospital Management System
-Is is a simple hospital management system which involves adding patient data, viewing doctors and patients & booking appointment with the doctor. It is done by updating and retriving the data from the database server. 
+Is is a simple hospital management system which involves adding patient data, viewing doctors and patients & booking appointment with the doctor. It is done by updating and retriving the data from the database server. A small management system helpful for operating hospital.
 ## Technologies used
 - JDBC (Java Database Connectivity)
 - Java 
 - SQL for MySQL Database Server
 ## Database Schema
-It consists of three tables of Patients, Doctors and Appointments
+It consists of three tables: Patients, Doctors and Appointments
 
 Patients 
 
